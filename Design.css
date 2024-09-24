@@ -16,9 +16,9 @@
 }
 
 .btn-brand {
-    background-color:brown;
-    color: #181717;
-    border: 2px solid #151515;
+    background-color:rgb(189, 19, 19);
+    color: #e4dada;
+    border: 2px solid #443d3d;
 
 }
 
@@ -33,7 +33,7 @@ section {
 }
 
 #about{
-    background-color: rgb(23,10,10);
+    background-color: rgb(114, 100, 27);
 
 }
 #about h2 {
@@ -60,7 +60,7 @@ section {
 .card:hover .card-title,
 .card:hover .card-text,
 .card:hover .btn {
-    color: #050505;
+    color: #f8f2f2;
 }
 
 #cta {
@@ -71,5 +71,41 @@ section {
 }
 
 .card:hover {
-    background-color: black;
+    background-color: rgb(9, 9, 9);
 }
+#services h2 {
+    font-size: 55px;
+    font-weight: 900;
+    color:red;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #151515;
+    
+}
+
+ #services  {
+background-color: white;
+
+
+ }
+ .testimonials {
+    padding: 30px;
+    border: 2px solid red;
+    border-radius: 30px;
+
+ }
+ .testimonials img {
+    width: 65px;
+    border-radius: 100px;
+
+ }
+
+ .testemonials a {
+    color: red;
+ }
+ #reviews h2 {
+    font-size: 55px;
+    font-weight: 900;
+    color:red;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #151515;
+ } 
